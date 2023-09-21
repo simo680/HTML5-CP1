@@ -6,7 +6,7 @@ header, section, footer, aside, nav, main, article, figure {
     text-decoration: none;
     font-family: sans-serif;
     box-sizing: border-box;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 header, main {
